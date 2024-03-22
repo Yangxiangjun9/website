@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 table tr td
 {
    color:#231212;
@@ -12,4 +13,20 @@ input
    font-size:20px;
    font-weight:604;
    padding:2px 3px 2px 3px
+=======
+table tr td
+{
+   color:#231212;
+   font-family:Comic Sans MS,cursive,sans-serif;
+   font-size:22px;
+   text-shadow:1px 1px grey
+}
+
+input
+{
+   font-family:Arial Black,Gadget,sans-serif;
+   font-size:20px;
+   font-weight:604;
+   padding:2px 3px 2px 3px
+>>>>>>> 0812b9a1f0db4fdaf8a2e835f0054fa637abffef
 }
